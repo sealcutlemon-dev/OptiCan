@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use OptiCan in research, software, or publications, please cite this software."
+title: "OptiCan"
+version: 0.1.0
+type: software
+abstract: "A framework-agnostic, candidate-based hyperparameter tuner using multiple algorithms validated for speed and accuracy."
+license: MIT
+authors:
+  - name: "Seal-CL"
